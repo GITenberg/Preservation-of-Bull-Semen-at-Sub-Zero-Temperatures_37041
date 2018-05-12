@@ -21,6 +21,8 @@ creator:
     gutenberg_agent_id: '38608'
     url: http://www.gutenberg.org/2009/agents/38608
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/37041#Preservation-of-Bull-Semen-at-Sub-Zero-Temperatures
 gutenberg_issued: '2011-08-11'
 gutenberg_type: Text
 identifiers:
